@@ -1,15 +1,8 @@
-## Witam
+## Projekty
 
-Robię mody i narzędzia do Among Us.  
-Tworzę i utrzymuję **[C-Word Launcher](https://github.com/OfeKoOfe-cp/c-word-launcher)** — launcher do modowanego Among Us z auto-detekcją Steam/Epic, pobieraniem paczek z GitHub i updaterem.
-
-- 🔧 **C-Word Launcher** — `.exe` który ogarnia wszystko za ciebie
-- 🎮 **TouMira** — paczka modów do Among Us (AUnlocker, DraftMode, TownOfUsMira)
-
-## Kontakt
-
-- GitHub: [@OfeKoOfe-cp](https://github.com/OfeKoOfe-cp)
+- [**C-Word Launcher**](https://github.com/OfeKoOfe-cp/c-word-launcher) — launcher do modowanego Among Us (auto-detekcja Steam/Epic, pobieranie paczek z GitHub, updater)
+- **TouMira** — paczka modów: AUnlocker, DraftMode, TownOfUsMira
 
 ## Zanim napiszesz
 
-Przeczytaj [nohello.net](https://nohello.net) zanim wyślesz "hej" i czekasz. Pisz od razu o co chodzi.
+Przeczytaj [nohello.net](https://nohello.net) zanim wyślesz "hej". Pisz od razu o co chodzi.
