@@ -1,4 +1,5 @@
 [![C-Word Launcher](https://img.shields.io/badge/C--Word_Launcher-v1.0.3-89b4fa?style=for-the-badge)](https://github.com/OfeKoOfe-cp/c-word-launcher)
+[![TouMira](https://img.shields.io/badge/TouMira-aktualna-a6e3a1?style=for-the-badge)](https://github.com/OfeKoOfe-cp/c-word-launcher/releases)
 
 ## Projekty
 
