@@ -1,7 +1,6 @@
 ## Projekty
 
-- [**C-Word Launcher**](https://github.com/OfeKoOfe-cp/c-word-launcher) — launcher do modowanego Among Us (auto-detekcja Steam/Epic, pobieranie paczek z GitHub, updater)
-- **TouMira** — paczka modów: AUnlocker, DraftMode, TownOfUsMira
+- [**C-Word Launcher**](https://github.com/OfeKoOfe-cp/c-word-launcher) — launcher do Among Us z modami
 
 ## Zanim zaczniesz pierdolic
 
