@@ -9,3 +9,7 @@ Tworzę i utrzymuję **[C-Word Launcher](https://github.com/OfeKoOfe-cp/c-word-l
 ## Kontakt
 
 - GitHub: [@OfeKoOfe-cp](https://github.com/OfeKoOfe-cp)
+
+## Zanim napiszesz
+
+Przeczytaj [nohello.net](https://nohello.net) zanim wyślesz "hej" i czekasz. Pisz od razu o co chodzi.
