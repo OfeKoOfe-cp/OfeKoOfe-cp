@@ -10,7 +10,8 @@ Launcher do modowanego Among Us z auto-detekcją Steam/Epic, pobieraniem paczek 
 
 ## Muzyka
 
-Słucham wszystkiego. Poleć coś dobrego.
+![Ostatnio słuchane](metrics.plugin.music.recent.svg)
+![Top utwory](metrics.plugin.music.top.svg)
 
 ## Zanim zaczniesz pierdolic
 
