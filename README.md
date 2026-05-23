@@ -8,6 +8,10 @@ Launcher do modowanego Among Us z auto-detekcją Steam/Epic, pobieraniem paczek 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## Muzyka
+
+Słucham wszystkiego. Poleć coś dobrego.
+
 ## Zanim zaczniesz pierdolic
 
 - Wejdz na [nohello.net](https://nohello.net) i sie wczytaj
