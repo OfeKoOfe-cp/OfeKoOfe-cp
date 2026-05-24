@@ -15,6 +15,14 @@ jobs:
           filename: metrics.terminal.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header, metadata
+  steam:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_USER }}
