@@ -9,7 +9,7 @@ Launcher do modowanego Among Us z auto-detekcją Steam/Epic.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Terminal](metrics.terminal.svg)
-![Steam](metrics.plugin.steam.svg)
+![Steam](metrics.steam.svg)
 
 ## Zanim zaczniesz pierdolic
 

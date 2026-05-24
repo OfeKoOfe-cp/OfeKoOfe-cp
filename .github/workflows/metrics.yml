@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.steam.svg
+          filename: metrics.steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam: yes
