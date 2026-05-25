@@ -1,6 +1,6 @@
-[![C-Word Launcher](https://img.shields.io/badge/C--Word_Launcher_Python-v1.0-89b4fa?style=for-the-badge)](https://github.com/OfeKoOfe-cp/c-word-launcher)
-
-Launcher do modowanego Among Us z auto-detekcją Steam/Epic.
+[![C-Word Launcher](https://img.shields.io/badge/C--Word_Launcher_Python-v1.0-89b4fa?style=for-the-badge)](https://github.com/OfeKoOfe-cp/C-Word-Launcher-Python)
+[![C-Word Launcher](https://img.shields.io/badge/C--Word_Launcher_CSharp-v1.0-89b4fa?style=for-the-badge)](https://github.com/OfeKoOfe-cp/C-Word-Launcher-CSharp)
+Launcher do modowanego Among Us
 
 ## Języczki
 
