@@ -1,4 +1,4 @@
-[![C-Word Launcher](https://img.shields.io/badge/C--Word_Launcher-v1.0-89b4fa?style=for-the-badge)](https://github.com/OfeKoOfe-cp/c-word-launcher)
+[![C-Word Launcher](https://img.shields.io/badge/C--Word_Launcher_Python-v1.0-89b4fa?style=for-the-badge)](https://github.com/OfeKoOfe-cp/c-word-launcher)
 
 Launcher do modowanego Among Us z auto-detekcją Steam/Epic.
 
