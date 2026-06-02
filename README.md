@@ -1,4 +1,4 @@
-https://gists-readme.yizack.com/api?user={OfeKoOfe-cp}
+
 
 ## Języczki
 
