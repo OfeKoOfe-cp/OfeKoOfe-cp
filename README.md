@@ -1,7 +1,4 @@
-[![C-Word Launcher](https://img.shields.io/badge/C--Word_Launcher_Python-v1.0-3776AB?style=for-the-badge)](https://github.com/OfeKoOfe-cp/C-Word-Launcher-Python)
-[![C-Word Launcher](https://img.shields.io/badge/C--Word_Launcher_CSharp-v1.0-239120?style=for-the-badge)](https://github.com/OfeKoOfe-cp/C-Word-Launcher-CSharp)
 
-Launcher do modowanego Among Us
 
 ## Języczki
 
